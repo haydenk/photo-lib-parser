@@ -7,7 +7,7 @@ gem 'padrino-helpers', '~> 0.14.1.1'
 gem 'rack', '~> 2.0'
 
 group :development, :test do
-  gem 'rake', '~> 12.0'
+  gem 'rake', '~> 12.3'
   gem 'dm-sqlite-adapter', '~> 1.2.0'
 end
 
